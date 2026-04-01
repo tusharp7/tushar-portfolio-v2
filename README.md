@@ -98,6 +98,3 @@ Recommended workflow:
 2. Import the repository into Vercel
 3. Deploy
 
-## Credits
-
-This project started from the `portfolio-v2` starter by `shxntanu` and was customized extensively with Tushar Birajdar's content, assets, and links.
